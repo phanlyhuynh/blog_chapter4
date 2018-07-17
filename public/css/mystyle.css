@@ -1,0 +1,26 @@
+.row{
+    color: yellow;
+}
+.navbar .navbar-header .navbar-brand {
+    color: #3aec05;
+}
+
+.navbar .nav li a{
+    color: #3aec05;
+}
+.navbar .nav li:hover{
+    background-color: #dbe7ff;
+}
+.navbar .nav li a:hover{
+    color: #520200;
+}
+.container .well .form-horizontal .form-group .btn1{
+    color: yellow;
+}
+.container .well .btn-info{
+    color:#ff2101;
+    background-color: #96e2ff;
+}
+.container .well .form-horizontal .form-group .btn2{
+    color: yellow;
+}
